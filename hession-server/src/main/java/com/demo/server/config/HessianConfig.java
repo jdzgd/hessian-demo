@@ -9,7 +9,7 @@ import org.springframework.remoting.caucho.HessianServiceExporter;
 import org.springframework.remoting.support.RemoteExporter;
 
 /**
- * 配置hession
+ * 配置hessian
  * @author jiangdongzhao
  * @version V1.0.0
  * @date 2020/3/17
