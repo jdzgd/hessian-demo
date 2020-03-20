@@ -1,0 +1,5 @@
+version: "3.3"
+
+services:
+  hession-client:
+    image: "Image ID	sha256:821658c69088c4e81099d212d2ac02bd3943c1659dde4e113e5663708f7ab082"

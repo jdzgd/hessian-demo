@@ -1,5 +1,0 @@
-spring:
-  application:
-    name: hession-client
-server:
-  port: 8081
